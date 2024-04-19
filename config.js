@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "MTIyNTQyOTY0Njg1NDU5MDUwNg.Gyzg_d.VDJIAkiobGO6DpA6ZlXt1mpYscSRvsnq4Wi2ps",
+  TOKEN: "MTE1ODMxMTY0NDYzNjY0NzQzNA.G0DGl1.PV8ZIaCQRA0hewLS031TVDpRfk7k0PbYh8V2x0",
   ownerID: ["779507251282968587", ""], 
   commandsDir: './commands',  
   embedColor: "00fbff",
